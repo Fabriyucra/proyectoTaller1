@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>  
 <html>  
-<head>  
+<head>  se puede modificar??
     <title>F12</title>  
 </head>  
 <body>  
